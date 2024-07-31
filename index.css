@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+#colors {
+    width: 200px;
+    height: 200px;
+    background-color: blue; 
+    transition: background-color 0.3s ease; 
+}
+
+
